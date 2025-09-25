@@ -25,7 +25,7 @@ It was built as part of a web development project to demonstrate **HTML5, CSS3, 
 ---
 
 ## 🌐 Live Demo
-🔗 [View the website here](https://yohjamal.github.io/harambee-website/)
+🔗 [View the website here](https://plp-webtechnologies-classroom-july2-coral.vercel.app/index.html)
 
 ---
 
